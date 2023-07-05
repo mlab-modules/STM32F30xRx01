@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/STM32F30xRx01.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/STM32F30xRx01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/STM32F30xRx01
+summary: null

@@ -1,0 +1,10 @@
+description: null
+github_branch: STM32F30xRx01A
+github_repo: STM32F30xRx01
+github_url: https://github.com/mlab-modules/STM32F30xRx01
+homepage: false
+images:
+- doc/img/STM32F30xRx01A_QRcode.png
+mark: 50
+tags: []
+title: STM32F30xRx01
