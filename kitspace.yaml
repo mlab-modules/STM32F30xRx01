@@ -5,4 +5,4 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/STM32F30xRx01
-summary: null
+summary: STM32F30xRx01A module
